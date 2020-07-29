@@ -1,0 +1,13 @@
+body {
+	font-family: Georgia, Times, 'Times New Roman', serif;
+	font-size: 200%;
+	width: 960px;
+	text-align: center;
+	margin: 0 auto;
+
+}
+
+#maps {
+	height: 400px;
+    width: 900px;
+}
